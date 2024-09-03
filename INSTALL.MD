@@ -17,7 +17,7 @@ Install KVM on Ubuntu
 =
 
 Step 1: Install the required packages
-
+-
 sudo apt -y install bridge-utils cpu-checker libvirt-clients libvirt-daemon qemu qemu-kvm
 
 Execute the following command to make sure your processor supports virtualisation capabilities:
